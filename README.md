@@ -1,4 +1,4 @@
-
+ Measuring 0 - 100 V dc using micro controller.
 
 Digital Voltmeters are most common devices for Embedded and Hardware Engineers and are used on daily purpose for measuring voltage values in their circuits. here, i will we go through how to make digital voltmeter using Microchip PIC micro-controller which measure dc voltage between (0 - 100)v and then display voltage values on multiplexed seven segment display.
 
